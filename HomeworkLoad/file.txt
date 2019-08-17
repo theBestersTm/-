@@ -1,0 +1,60 @@
+Test 1
+Name: Computer science
+Question 1: 
+Which of this characteristics we can use in computer measuring:
+1. Core amount
+2. Resolution
+3. Capacity
+4. All
+Right answer: 4
+Question 2: 
+Which of this characteristics we can use in computer measuring:
+1. Core amount
+2. Resolution
+3. Capacity
+4. All
+Right answer: 4
+Question 3: 
+Which of this characteristics we can use in computer measuring:
+1. Core amount
+2. Resolution
+3. Capacity
+4. All
+Right answer: 4
+end
+===============================
+Test 2
+Name: Network tech
+Question 1: 
+Which of this characteristics we can use in computer measuring:
+1. Core amount
+2. Resolution
+3. Capacity
+4. All
+Right answer: 4
+Question 2: 
+Which of this characteristics we can use in computer measuring:
+1. Core amount
+2. Resolution
+3. Capacity
+4. All
+Right answer: 4
+end
+===============================
+Test 3
+Name: Software grade
+Question 1: 
+Which of this characteristics we can use in computer measuring:
+1. Core amount
+2. Resolution
+3. Capacity
+4. All
+Right answer: 4
+Question 2: 
+Which of this characteristics we can use in computer measuring:
+1. Core amount
+2. Resolution
+3. Capacity
+4. All
+Right answer: 4
+end
